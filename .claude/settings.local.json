@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.comfy.org)",
+      "Bash(python:*)",
+      "mcp__claude_ai_Replicate__search",
+      "WebFetch(domain:openrouter.ai)"
+    ]
+  }
+}
